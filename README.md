@@ -1,5 +1,7 @@
 # CalculatorApp
-Description
+Beschreibung
 
 ### Technologies used
 Python
+
+Bearbeitet
